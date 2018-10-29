@@ -29,3 +29,7 @@ curl http://127.0.0.1:6081/history/qd-open-falcon-judge01.hd/cpu.idle
 2. 检查hbs log
 3. 检查hbs配置的数据库地址是否正确
 4. 检查hbs的配置hosts是否配置为sync了，只有留空的时候hbs才会去写host表，host表中有数据才能在页面上添加机器
+
+
+
+
